@@ -6,7 +6,7 @@
 Open terminal
 Create virtual environment in working directory and activate it.
 
-git clone https://github.com/Jayesh00001/04_OpenAI_Twilio_Whatsapp_Bot
+git clone https://github.com/vkapsitsolutions/ChatGPT-python
 
 $ pip install -r reqt.txt
 
